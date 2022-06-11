@@ -1,0 +1,3 @@
+bs-config.json is the configuration file for lite server, which is a tool for
+automatically rendering the webpage.
+baseDir determines where does lite server look for the index.html file.
